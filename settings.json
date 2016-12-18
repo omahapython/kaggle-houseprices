@@ -1,0 +1,5 @@
+{"TRAIN_DATA_PATH": "input/",
+ "TEST_DATA_PATH": "input/",
+ "MODEL_PATH": "working/",
+ "SUBMISSION_PATH": "working/"
+}
