@@ -1,0 +1,3 @@
+[submodule "src/westurner_house_prices"]
+	path = src/westurner_house_prices
+	url = https://github.com/westurner/house_prices
