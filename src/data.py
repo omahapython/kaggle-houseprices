@@ -129,6 +129,7 @@ def main(argv=None):
             json.dump(DEFAULT_SETTINGS, f)
             log.info("Wrote DEFAULT_SETTINGS to %r"
                      % opts.write_settings_json_defaults)
+        opts.settings_json_path = opts.write_settings_json_defaults
 
     EX_OK = 0
     output = load_settings_json(
